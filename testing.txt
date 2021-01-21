@@ -1,3 +1,3 @@
 https://github.com/ist256/spring2021.git;main;ist256;spring2021
-https://github.com/IST256/fa20-assignments.git;master;ist256;fa20-assignments
-https://github.com/IST256/fa20-class-examples.git;master;ist256;fa20-class-examples
+https://github.com/IST256/old/fa20-assignments.git;master;ist256;fa20-assignments
+https://github.com/IST256/old/fa20-class-examples.git;master;ist256;fa20-class-examples
