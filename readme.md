@@ -2,7 +2,7 @@
 
 ## file format
 
-giturl;branch;coursefolder;repofolder
+`giturl;branch;coursefolder;repofolder`
 
 
 ### definitions
