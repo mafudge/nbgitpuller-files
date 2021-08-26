@@ -1,1 +1,2 @@
 https://github.com/ist256/fall2021.git;main;ist256;fall2021
+https://github.com/daniel-acuna/ist718.git;master;ist718;fall2021
