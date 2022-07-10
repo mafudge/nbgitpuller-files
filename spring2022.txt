@@ -1,1 +1,2 @@
 https://github.com/IST256/spring2022.git;main;ist256;spring2022
+https://github.com/IST256/supa2022.git;main;ist256;supa2022
