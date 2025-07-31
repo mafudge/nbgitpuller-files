@@ -1,2 +1,2 @@
-https://github.com/ist256/spring2025.git;main;ist256;spring2025
+https://github.com/ist256/fall2025.git;main;ist256;fall2025
 https://github.com/ist256/summer2025.git;main;ist256;summer2025
